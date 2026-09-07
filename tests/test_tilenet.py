@@ -1,5 +1,5 @@
 import unittest
-from tilenet import evaluate, predict, make_tile
+from src.tilenet import evaluate, predict, make_tile
 
 
 class TileTests(unittest.TestCase):
